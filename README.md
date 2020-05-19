@@ -1,3 +1,5 @@
+Use Wildfly to test on OC. -V
+
 openshift-jee-sample
 ====================
 
